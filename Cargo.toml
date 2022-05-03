@@ -1,0 +1,13 @@
+[package]
+name = "my-password-manager"
+version = "1.0.0"
+authors = ["Noxtal"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serde_json = "1.0.79"
+sha2 = "0.10.2"
+hex-literal = "0.3.4"
+magic-crypt = "3.1.10"
