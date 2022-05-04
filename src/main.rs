@@ -105,5 +105,3 @@ fn main() {
     }
   }
 }
-
-// TODO masterkey for AES encryption (crate?)
